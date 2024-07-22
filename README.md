@@ -1,1 +1,2 @@
 # penguin-classifier
+Penguine classifier is multi classification project that classify penguines into different classes using logistic regression classifier.This project includes the preprocessing of data, removing the null values, then training the classifier by optimizing hyper parameters, and finally evaluating the model with different metrics that include ROC and AUC and traditional precission, recall, accuracy and F1 Measure.
